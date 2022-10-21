@@ -4,9 +4,7 @@
   "version": "0.0.0",
   "description": "บาคาร่า สล็อต บนโทรศัพท์มือถือ",
   "keywords": [
-    "seo",
-    "สล็อต บนโทรศัพท์มือถือ",
-    "บาคาร่า"
+   
   ],
   "activationCommands": {
     "atom-workspace": "my-package:toggle"
